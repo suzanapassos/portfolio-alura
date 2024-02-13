@@ -19,3 +19,5 @@ Para visualizar, acesse o link: https://portfolio-alura-mauve-chi.vercel.app/
 ### Suzana Passos
 
 ### Linkedin: https://www.linkedin.com/in/suzana-passos1
+
+-- Observação para o rodapé 'Desenvolvido por Alura' que acabei deixando da maneira como estava no curso e ficou por isso mesmo rs
